@@ -58,9 +58,7 @@ Os desafios do problema são:
   Para a primeira janela extraída (elementos `1, 3, 5, 6`):
 
   - Cálculo:  
-    $$
-    1 \times (-1) + 3 \times 0 + 5 \times 0 + 6 \times 1 = -1 + 0 + 0 + 6 = 5
-    $$
+    $1 \times (-1) + 3 \times 0 + 5 \times 0 + 6 \times 1 = -1 + 0 + 0 + 6 = 5$
 
 - **Discussão sobre o Kernel:**  
   - **Kernel [-1, 0; 0, 1]:**  
